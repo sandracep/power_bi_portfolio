@@ -1,0 +1,8 @@
+Duomenų pavadinimas: Spotify Top 10,000 klausytos dainos
+Nuoroda: https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs/data
+
+1) Kurie 10 atlikėjų turi daugiausia dainų patekusių į Top 10,000 klausytųjų sąrašą?
+2) Kurie atlikėjai vidutiniškai ilgiau laikosi sąraše?
+3) Kiek dainų pasiekė kiekvieną tikslią aukščiausią poziciją?
+4) Kurie atlikėjai turi daugiausiai bendrų perklausų?
+5) Kaip dainos aukščiausia pasiekta pozicija susijusi su bendru perklausų skaičiumi?
